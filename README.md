@@ -395,17 +395,6 @@ flake8 src/
 4. Lin, C.Y. (2004). "ROUGE: A Package for Automatic Evaluation of Summaries"
 5. Zhang, J., et al. (2020). "Biomedical Text Summarization: A Survey of Recent Progress"
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Peeyush Dyavarashetty**
-- MS Applied Machine Learning, University of Maryland
-- LinkedIn: [peeyush-dyavarashetty](https://linkedin.com/in/peeyush-dyavarashetty)
-- Portfolio: [peeyush4.github.io](https://peeyush4.github.io)
-- Email: pdyavara@terpmail.umd.edu
 
 ## 🙏 Acknowledgments
 
